@@ -12,7 +12,7 @@
 
 # Answers - Ilan HUCHÉ - Aiman AOUAD
 
-## Le bug de l'an 2000, également connu sous le nom de Y2K, était une erreur de programmation qui affectait les systèmes informatiques utilisant des dates. Cette erreur était due au fait que les dates étaient souvent stockées en utilisant seulement deux chiffres pour l'année, ce qui pouvait entraîner des confusions entre les années 1900 et 2000.
+Le bug de l'an 2000, également connu sous le nom de Y2K, était une erreur de programmation qui affectait les systèmes informatiques utilisant des dates. Cette erreur était due au fait que les dates étaient souvent stockées en utilisant seulement deux chiffres pour l'année, ce qui pouvait entraîner des confusions entre les années 1900 et 2000.
 
 ## Type de bug :
 
